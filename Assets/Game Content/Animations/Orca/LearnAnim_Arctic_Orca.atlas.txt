@@ -1,6 +1,6 @@
 
 LearnAnim_Arctic_Orca.png
-size: 1024,1024
+size: 1024,599
 format: RGBA8888
 filter: Linear,Linear
 repeat: none

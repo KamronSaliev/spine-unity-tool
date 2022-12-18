@@ -113,7 +113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonDataAsset: {fileID: 11400000, guid: 6e494409428084cdbad95cd2d0c3ebf4, type: 2}
-  initialSkinName: 
+  initialSkinName: LearnAnim_Arctic_Orca_Base
   initialFlipX: 0
   initialFlipY: 0
   updateWhenInvisible: 3
