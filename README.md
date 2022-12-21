@@ -1,2 +1,3 @@
-# spine-import-unity-tool
-Unity toolset for working with Spine assets
+`PROJECT NAME:` Spine Unity Toolset
+
+<p>Unity toolset for working with Spine assets.</p>
